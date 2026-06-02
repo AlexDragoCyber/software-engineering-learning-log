@@ -15,7 +15,7 @@ Current Focus
  Portfolio Projects
 
 1. Password Strength Checker - Completed
-2. Phishing Email Risk Checker - In progress next
+2. Phishing Email Risk Checker - Completed
 3. Cyber Security Risk Assessment Tool - Planned
 4. Cyber Incident Log System - Planned
 5. Python Data Cleaning Project - Planned
@@ -32,6 +32,14 @@ This is a beginner Python cyber security project that checks whether a password 
 It checks password length, uppercase letters, lowercase letters, numbers, symbols and common weak passwords. It also gives advice to improve the password.
 
 Project link: https://github.com/AlexDragoCyber/password-strength-checker
+
+ 2. Phishing Email Risk Checker
+
+This is a beginner Python cyber security project that checks the risk level of a suspicious email.
+
+It uses a simple scoring system based on common phishing warning signs such as unknown sender, urgent language, suspicious links, unexpected attachments and requests for personal details.
+
+Project link: https://github.com/AlexDragoCyber/phishing-email-risk-checker
 
  Why I Am Building This
 
