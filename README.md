@@ -14,7 +14,7 @@ Current Focus
 
 Planned Portfolio Projects
 
-1. Password Strength Checker
+1. Password Strength Checker(COMPLETED)
 2. Phishing Email Risk Checker
 3. Cyber Security Risk Assessment Tool
 4. Cyber Incident Log System
