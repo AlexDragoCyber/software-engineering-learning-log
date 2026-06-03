@@ -16,7 +16,7 @@ Current Focus
 
 1. Password Strength Checker - Completed
 2. Phishing Email Risk Checker - Completed
-3. Cyber Security Risk Assessment Tool - Planned
+3. Cyber Security Risk Assessment Tool - Completed
 4. Cyber Incident Log System - Planned
 5. Python Data Cleaning Project - Planned
 6. Network Security Case Study - Planned
@@ -40,6 +40,14 @@ This is a beginner Python cyber security project that checks the risk level of a
 It uses a simple scoring system based on common phishing warning signs such as unknown sender, urgent language, suspicious links, unexpected attachments and requests for personal details.
 
 Project link: https://github.com/AlexDragoCyber/phishing-email-risk-checker
+
+ 3. Cyber Security Risk Assessment Tool
+
+This is a beginner Python cyber security project that creates a simple risk register.
+
+It uses likelihood and impact scores to calculate cyber risk levels and recommends basic security controls for threats such as ransomware, phishing, weak passwords, malware, insider threats and data breaches.
+
+Project link: https://github.com/AlexDragoCyber/cyber-security-risk-assessment-tool
 
  Why I Am Building This
 
