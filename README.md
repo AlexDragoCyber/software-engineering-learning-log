@@ -21,7 +21,7 @@ Current Focus
 5. Python Data Cleaning Project - Completed
 6. Network Security Case Study - Completed
 7. Cloud Network Design Case Study - Completed
-8. Personal Portfolio Website - Planned
+8. Personal Portfolio Website - Completed
 
  Completed Projects
 
@@ -81,9 +81,16 @@ It explains VPC design, public and private subnets, route tables, internet gatew
 
 Project link: https://github.com/AlexDragoCyber/cloud-network-design-case-study
 
+8. Personal Portfolio Website
+
+This is a beginner personal portfolio website built using HTML and CSS.
+
+It presents my background, skills, cyber security/software engineering projects, GitHub profile and LinkedIn profile in one place.
+
+Project link: https://github.com/AlexDragoCyber/personal-portfolio-website
+
  Why I Am Building This
 
 My goal is to move from my current background into the technology industry and build a strong portfolio that shows practical skills, consistency and real progress.
 
-
-Update learning log with seventh completed project
+Update learning log with personal portfolio website
