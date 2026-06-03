@@ -20,7 +20,7 @@ Current Focus
 4. Cyber Incident Log System - Completed
 5. Python Data Cleaning Project - Completed
 6. Network Security Case Study - Completed
-7. Cloud Network Design Case Study - Planned
+7. Cloud Network Design Case Study - Completed
 8. Personal Portfolio Website - Planned
 
  Completed Projects
@@ -73,9 +73,17 @@ It explains VLAN segmentation, IP addressing, firewall controls, NAT, DMZ separa
 
 Project link: https://github.com/AlexDragoCyber/network-security-case-study
 
+Cloud Network Design Case Study
+
+This is a beginner AWS-style cloud network design case study.
+
+It explains VPC design, public and private subnets, route tables, internet gateway, security groups, monitoring, scalability and high availability concepts.
+
+Project link: https://github.com/AlexDragoCyber/cloud-network-design-case-study
+
  Why I Am Building This
 
 My goal is to move from my current background into the technology industry and build a strong portfolio that shows practical skills, consistency and real progress.
 
 
-Update learning log with sixth completed project
+Update learning log with seventh completed project
