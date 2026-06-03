@@ -18,7 +18,7 @@ Current Focus
 2. Phishing Email Risk Checker - Completed
 3. Cyber Security Risk Assessment Tool - Completed
 4. Cyber Incident Log System - Completed
-5. Python Data Cleaning Project - Planned
+5. Python Data Cleaning Project - Completed
 6. Network Security Case Study - Planned
 7. Cloud Network Design Case Study - Planned
 8. Personal Portfolio Website - Planned
@@ -57,9 +57,17 @@ It generates incident IDs, records the date, validates severity and status, and 
 
 Project link: https://github.com/AlexDragoCyber/cyber-incident-log-system
 
+5. Cyber Incident Data Cleaning and Analysis
+
+This is a beginner Python data cleaning and analysis project using a cyber security incident dataset.
+
+It loads a messy CSV file, checks missing values and duplicate rows, cleans the data, saves a cleaned dataset and creates charts using Pandas and Matplotlib.
+
+Project link: https://github.com/AlexDragoCyber/cyber-incident-data-cleaning
+
  Why I Am Building This
 
 My goal is to move from my current background into the technology industry and build a strong portfolio that shows practical skills, consistency and real progress.
 
 
-Update learning log with first completed project
+Update learning log with fifth completed project
