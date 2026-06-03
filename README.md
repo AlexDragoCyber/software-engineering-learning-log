@@ -17,7 +17,7 @@ Current Focus
 1. Password Strength Checker - Completed
 2. Phishing Email Risk Checker - Completed
 3. Cyber Security Risk Assessment Tool - Completed
-4. Cyber Incident Log System - Planned
+4. Cyber Incident Log System - Completed
 5. Python Data Cleaning Project - Planned
 6. Network Security Case Study - Planned
 7. Cloud Network Design Case Study - Planned
@@ -48,6 +48,14 @@ This is a beginner Python cyber security project that creates a simple risk regi
 It uses likelihood and impact scores to calculate cyber risk levels and recommends basic security controls for threats such as ransomware, phishing, weak passwords, malware, insider threats and data breaches.
 
 Project link: https://github.com/AlexDragoCyber/cyber-security-risk-assessment-tool
+
+4. Cyber Incident Log System
+
+This is a beginner Python cyber security project that records cyber security incidents in a simple incident log.
+
+It generates incident IDs, records the date, validates severity and status, and gives recommended actions based on severity level.
+
+Project link: https://github.com/AlexDragoCyber/cyber-incident-log-system
 
  Why I Am Building This
 
